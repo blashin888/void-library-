@@ -1,5 +1,7 @@
 This is a quiet library.
 
+Some entries currently lead to missing pages from a previous account. They remain here as structural traces rather than restored artifacts.
+
 You may read, skim, or simply be aware of its existence.
 Nothing here is complete.
 Nothing requires explanation.
